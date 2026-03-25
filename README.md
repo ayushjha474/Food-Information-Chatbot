@@ -3,6 +3,8 @@
 A simple and interactive web-based chatbot built using Flask that provides detailed information about food items including ingredients, nutritional values, and veg/non-veg classification.
 
 ---
+## 🌐 Live Demo
+https://food-information-chatbot-3.onrender.com
 
 ## 🚀 Features
 
